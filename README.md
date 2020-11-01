@@ -1,2 +1,4 @@
 # Coursera-Peer-Graded-Assignment
-Segmenting and Clustering Neighborhoods in Toronto
+two notebooks were submitted for this assignment. 
+the first notebook for the webscraping assignment
+second notebook for the segmentation and clustering assignment
